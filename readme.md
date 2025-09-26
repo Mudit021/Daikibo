@@ -1,4 +1,3 @@
-``
 # Daikibo Project: Telemetry & Compensation Data Analysis
 
 This project presents an analysis of two distinct datasets from the company **Daikibo**: machine telemetry data and employee compensation information. The goal is to provide actionable insights into operational efficiency and internal pay equity using a combination of **Tableau** and **Microsoft Excel**.
