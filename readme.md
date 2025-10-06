@@ -7,6 +7,8 @@ This project presents an analysis of two distinct datasets from the company **Da
 ## 1. Machine Telemetry Analysis (Tableau)
 
 This section focuses on identifying and visualizing potential machine downtime. The analysis is built on telemetry data from various factories and device types.
+<img width="640" height="793" alt="image" src="https://github.com/user-attachments/assets/f53f6b5c-d509-44c5-b805-e14a7983980b" />
+
 
 ### 1.1 Project Objectives
 
