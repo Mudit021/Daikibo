@@ -84,7 +84,6 @@ The following formula was used in cell `D2` and applied to the rest of the colum
 ```
 ├── daikibo-telemetry-data.json
 ├── Equality Table.xlsx
-├── Sheet1.csv
 └── README.md
 ```
 
